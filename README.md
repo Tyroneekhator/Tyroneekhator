@@ -1,8 +1,11 @@
 ### Tyrone Ekhator 👋
 
-A self-motivated software engineer undergraduate that has finished
-his tertiary education and is looking for an apprenticeship. All projects
-done in school are present on my GitHub.
+A software engineer graduate who has done various projects
+that were given as assessments at Solent University Southampton
+looking for recruitment in apprenticeship. Moreover, I am familiar
+with multiple programming languages with my projects being present
+on git hub. I've included my coding experience, education and skills
+below.
 
 ---
 ### 🧰 Languages and Tools
