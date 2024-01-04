@@ -1,11 +1,10 @@
 ### Tyrone Ekhator 👋
 
 A software engineer graduate who has done various projects
-that were given as assessments at Solent University Southampton
-looking for an apprenticeship or entry-level job. Moreover, I am familiar
+that were given as assessments by Solent University Southampton
+looking for an apprenticeship or entry-level job in any IT field. Moreover, I am familiar
 with multiple programming languages with my projects being present
-on git hub. I've included my coding experience, education and skills
-below.
+on Git Hub. Please find my projects below.
 
 ---
 ### 🧰 Languages and Tools
