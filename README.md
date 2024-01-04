@@ -2,7 +2,7 @@
 
 A software engineer graduate who has done various projects
 that were given as assessments at Solent University Southampton
-looking for recruitment in apprenticeship. Moreover, I am familiar
+looking for an apprenticeship or entry-level job. Moreover, I am familiar
 with multiple programming languages with my projects being present
 on git hub. I've included my coding experience, education and skills
 below.
